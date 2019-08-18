@@ -1,0 +1,22 @@
+h2 {
+  font-size: 40px;
+}
+
+.logo-lev {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
+
+.name-logo {
+  position: absolute;
+  width: 100%;
+  top: 25px;
+  text-align: center;
+}
+
+.logo-rait {
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
