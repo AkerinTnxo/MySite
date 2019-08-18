@@ -20,3 +20,8 @@ h2 {
   top: 50px;
   right: 100px;
 }
+
+body {
+  background: url(img/ae20eef65d74c099f4722d8b36fc3f6a.jpg);
+  background-size: cover;
+}
